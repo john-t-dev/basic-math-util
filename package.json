@@ -1,5 +1,5 @@
 {
-  "name": "JohnT-Computational-Core",
+  "name": "johnt-computational-core",
   "version": "1.0.0",
   "description": "Simple math utility functions.",
   "main": "index.js",
