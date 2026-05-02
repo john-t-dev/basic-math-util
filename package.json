@@ -1,0 +1,11 @@
+{
+  "name": "basic-math-utils-jt-8472",
+  "version": "1.0.0",
+  "description": "Simple math utility functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John T.",
+  "license": "MIT"
+}
